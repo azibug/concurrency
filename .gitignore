@@ -1,0 +1,16 @@
+.settings
+bin
+coverage
+coverage.ec
+coverage.em
+out
+gen
+javadoc
+junit-report.xml
+lint-results.*ml
+lint-results_files
+local.properties
+monkey.txt
+*~
+*.iws
+*.ipr
